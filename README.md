@@ -1,4 +1,4 @@
-# Intro to Azure Cosmos DB
+# Intro to Azure Communication Services
 
 ## Abstract
 Microsoft recently announced the Azure Communication Services which “brings rich communication APIs to all your application across any device, on any platform, using the same reliable and secure infrastructure that powers Microsoft Teams.” During this session, you will learn what this new service has to offer and we’ll step through a couple of use cases such as sending/receiving SMS messages and two-way video conversations.
